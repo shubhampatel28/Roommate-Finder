@@ -11,5 +11,5 @@ https://myroommatefinder.herokuapp.com/
 - path NPM Package - https://www.npmjs.com/package/path
 - tachyons
 - nodemon
-- Google Firebase Auth
+- Google Firebase OAuth
 
